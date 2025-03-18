@@ -6,7 +6,7 @@ tags: ["afficher plus"]
 title: "Les requins"
 ---
 
-# Introduction
+Introduction
 Les requins sont des poissons marins présents dans tous les océans du monde. Ils sont connus pour leur forme distinctive, avec un corps allongé et des dents acérées. Il existe de nombreuses espèces de requins, allant des petits requins de récif aux grands requins blancs. Ces prédateurs jouent un rôle important dans l'équilibre des écosystèmes marins en régulant les populations de poissons. Bien qu’ils soient souvent perçus comme dangereux, la plupart des requins ne représentent pas de menace pour l'homme. Cependant, en raison de la pêche excessive et de la destruction de leur habitat, de nombreuses espèces de requins sont menacées.
 
 _______________________________________________________

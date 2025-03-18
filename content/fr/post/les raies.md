@@ -6,7 +6,7 @@ tags: ["afficher plus"]
 title: "Les raies"
 ---
 
-# Introduction
+Introduction
 Les raies sont des poissons cartilagineux appartenant au même groupe que les requins, les Elasmobranches. Présentes dans tous les océans du monde, elles se caractérisent par leur corps aplati et leurs nageoires pectorales larges, qui leur permettent de se déplacer avec grâce dans l'eau. Certaines espèces vivent sur les fonds marins, tandis que d'autres nagent en pleine eau. Dotées de capacités sensorielles exceptionnelles, notamment d'électrorécepteurs pour détecter leurs proies, les raies jouent un rôle crucial dans l'équilibre des écosystèmes marins. Leur diversité, allant des petites raies pastenagues aux majestueuses raies manta, en fait des créatures aussi fascinantes qu'essentielles à la biodiversité océanique.
 
 _______________________________________________________
