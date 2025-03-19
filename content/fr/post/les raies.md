@@ -7,6 +7,7 @@ title: "Les raies"
 ---
 
 Introduction
+
 Les raies sont des poissons cartilagineux appartenant au même groupe que les requins, les Elasmobranches. Présentes dans tous les océans du monde, elles se caractérisent par leur corps aplati et leurs nageoires pectorales larges, qui leur permettent de se déplacer avec grâce dans l'eau. Certaines espèces vivent sur les fonds marins, tandis que d'autres nagent en pleine eau. Dotées de capacités sensorielles exceptionnelles, notamment d'électrorécepteurs pour détecter leurs proies, les raies jouent un rôle crucial dans l'équilibre des écosystèmes marins. Leur diversité, allant des petites raies pastenagues aux majestueuses raies manta, en fait des créatures aussi fascinantes qu'essentielles à la biodiversité océanique.
 
 _______________________________________________________
@@ -21,12 +22,11 @@ La liste des espèces :
 - Les raies pastenagues
 - Les raies torpilles marbrées
 - Les raies vermiculées
-
 _______________________________________________________
 
 # LES RAIES AIGLES
 
-![raieaigle](images/raie aigle.jpg)
+![raie_aigle] (/images/raie aigle.jpg)
 
 Les raies aigles sont des créatures marines fascinantes appartenant à la famille des Myliobatidés. Réparties dans les océans tropicaux et tempérés du monde entier, elles se distinguent par leur silhouette élégante, leurs grandes nageoires en forme d’ailes et leur long museau pointu. Contrairement à d'autres raies qui évoluent près du fond marin, les raies aigles nagent souvent en pleine eau, planant gracieusement à la manière des oiseaux. Ces animaux, à la fois mystérieux et majestueux, jouent un rôle essentiel dans l’équilibre des écosystèmes marins.
 
