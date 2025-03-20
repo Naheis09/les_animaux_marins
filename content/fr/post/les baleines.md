@@ -23,7 +23,7 @@ _______________________________________________________
 
 # LA BALEINE BLEUE
 
-![baleine bleue](/images/Saut-dune-baleine-bleue-1024x683.jpg)
+![baleine bleue](https://naheis09.github.io/les_animaux_marins/fr//images/Saut-dune-baleine-bleue-1024x683.jpg)
 
 La baleine bleue (Balaenoptera musculus) est le plus grand animal ayant jamais existé sur Terre, atteignant des longueurs de plus de 30 mètres et un poids pouvant excéder 150 tonnes. Ces géants des mers vivent principalement dans les océans ouverts, où ils se nourrissent principalement de krill, un petit crustacé qu'ils filtrent en grande quantité à travers leurs fanons. Malgré leur taille imposante, les baleines bleues se déplacent avec une étonnante grâce et peuvent parcourir de vastes distances à travers les océans. Bien qu'elles aient été intensivement chassées au cours du 20e siècle, elles sont aujourd'hui protégées, bien que toujours vulnérables à des menaces telles que la pollution, le changement climatique et les collisions avec des navires. Ces majestueuses créatures jouent un rôle essentiel dans l'équilibre des écosystèmes marins, en contribuant au cycle des nutriments et à la santé des océans.
 
