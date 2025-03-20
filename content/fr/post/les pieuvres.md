@@ -12,7 +12,7 @@ Les pieuvres sont des mollusques marins appartenant à l’ordre des Octopoda. E
 
 _______________________________________________________
 
-La liste des espèces : 
+La liste des espèces de pieuvres : 
 - Les pieuvres communes
 - Les pieuvres géantes du Pacifique
 - Les pieuvres des récifs

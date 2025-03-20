@@ -12,7 +12,7 @@ Les baleines sont de gigantesques mammifères marins qui peuplent tous les océa
 
 _______________________________________________________
 
-La liste des espèces : 
+La liste des espèces de baleines : 
 - La baleine bleue 
 - La baleine à bosse
 - La baleine noire

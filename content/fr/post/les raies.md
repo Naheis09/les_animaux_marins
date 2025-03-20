@@ -12,7 +12,7 @@ Les raies sont des poissons cartilagineux appartenant au même groupe que les re
 
 _______________________________________________________
 
-La liste des espèces : 
+La liste des espèces de raies : 
 - Les raies aigles
 - Les raies à queue courte
 - Les raies brunes

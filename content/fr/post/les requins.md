@@ -12,7 +12,7 @@ Les requins sont des poissons marins présents dans tous les océans du monde. I
 
 ______________________________________________________
 
-La liste des espèces : 
+La liste des espèces de requins : 
 - Les requins à pointe noire
 - Les requins-baleine 
 - Les requins blanc
